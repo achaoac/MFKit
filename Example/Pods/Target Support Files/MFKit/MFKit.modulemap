@@ -1,0 +1,6 @@
+framework module MFKit {
+  umbrella header "MFKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

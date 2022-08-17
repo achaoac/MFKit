@@ -1,0 +1,16 @@
+PODS:
+  - MFKit (0.1.0)
+
+DEPENDENCIES:
+  - MFKit (from `../`)
+
+EXTERNAL SOURCES:
+  MFKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MFKit: 5a1067c73fcae0ba3c71bf1e815ebce076d7d700
+
+PODFILE CHECKSUM: dbf6236d8fe298ea557588882c9535e667cedb9e
+
+COCOAPODS: 1.11.2

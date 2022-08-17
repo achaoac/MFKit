@@ -1,0 +1,22 @@
+{
+  "name": "MFKit",
+  "version": "0.1.0",
+  "summary": "A short description of MFKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/achaoac/MFKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "achaoac": "achaoacwang@tencent.com"
+  },
+  "source": {
+    "git": "https://github.com/achaoac/MFKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MFKit/Classes/**/*"
+}
